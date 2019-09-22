@@ -1,2 +1,7 @@
 #mao's adblock list
 
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 d.amoad.com
+127.0.0.1 k.zucks.net
+127.0.0.1 ap.tapon.jp
