@@ -7,3 +7,4 @@
 127.0.0.1 ap.tapon.jp
 127.0.0.1 www.googleadservices.com
 127.0.0.1 acq-3pas.admtrix.jp
+127.0.0.1 rd.ane.yahoo.co.jp
