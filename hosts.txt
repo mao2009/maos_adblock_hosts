@@ -5,3 +5,4 @@
 127.0.0.1 d.amoad.com
 127.0.0.1 k.zucks.net
 127.0.0.1 ap.tapon.jp
+127.0.0.1 www.googleadservices.com
