@@ -1,4 +1,8 @@
 #mao's adblock hosts
+
+127.0.0.1 locahost
+::1  localhost
+
 127.0.0.1 ap.tapon.jp
 127.0.0.1 www.googleadservices.com
 127.0.0.1 acq-3pas.admtrix.jp
