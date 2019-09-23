@@ -8,4 +8,5 @@
 127.0.0.1 acq-3pas.admtrix.jp
 127.0.0.1 rd.ane.yahoo.co.jp
 127.0.0.1 click.liftoff.io
+127.0.0.1 liftoff.io
 127.0.0.1 ad.apsalar.com
