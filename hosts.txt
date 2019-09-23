@@ -10,3 +10,4 @@
 127.0.0.1 click.liftoff.io
 127.0.0.1 liftoff.io
 127.0.0.1 ad.apsalar.com
+127.0.0.1 adclick.g.doubleclick.net
