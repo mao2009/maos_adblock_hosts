@@ -13,3 +13,4 @@
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 uncn.jp
 127.0.0.1 d.amoad.com
+127.0.0.1 tpc.googlesyndication.com
