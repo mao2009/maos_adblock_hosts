@@ -14,3 +14,4 @@
 127.0.0.1 uncn.jp
 127.0.0.1 d.amoad.com
 127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 s0.2mdn.net/8270203
