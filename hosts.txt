@@ -13,3 +13,4 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 ad.adpon.jp
+127.0.0.1 nad.ad-stir.com
