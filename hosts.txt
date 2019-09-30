@@ -16,3 +16,4 @@
 0.0.0.0 nad.ad-stir.com
 0.0.0.0 cat.jp.as.criteo.com
 0.0.0.0 spnativeapi.i-mobile.co.jp
+0.0.0.0  k.zucks.net
